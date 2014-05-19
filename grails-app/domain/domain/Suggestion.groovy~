@@ -1,0 +1,10 @@
+package domain
+
+class Suggestion {
+	String name
+	String opinion
+	byte[] filePayload
+	
+    static constraints = {
+    }
+}
